@@ -16,5 +16,4 @@ const li = document.createElement("li");
 li.appendChild(a);
 
 fragment.appendChild(li);
-
 ul.appendChild(fragment);
